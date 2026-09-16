@@ -1,0 +1,2 @@
+-r requirements.txt
+# Install Tesseract OCR with Korean and English language data on Windows.

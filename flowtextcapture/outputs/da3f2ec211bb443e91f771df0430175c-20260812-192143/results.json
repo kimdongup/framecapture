@@ -1,0 +1,133 @@
+{
+  "video": "da3f2ec211bb443e91f771df0430175c.mp4",
+  "ocr_engine": "Apple Vision (accurate)",
+  "spellchecker": "basic normalization",
+  "blocks": [
+    {
+      "frame": "text_000000_000000.000.png",
+      "timestamp": 0.0,
+      "text": "Methodology: deepmind.google/models/evals-methodologyigemini-3-6-flash",
+      "corrected_text": "Methodology: deepmind.google/models/evals-methodologyigemini-3-6-flash",
+      "crop": "text_regions/text_000000_000000.000.png"
+    },
+    {
+      "frame": "text_000001_000000.500.png",
+      "timestamp": 0.5,
+      "text": "중간 결과만 제출하거나 추가 질문을 하지 말고, 합리적인 가정을 명시한 뒤 최종 PDF까지 완성하라.\n오후 11:46, 2026. 7. 21.\nL\n1\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\nAsk anyt\n이런 보고 문서나 그래프가 들어가는 작업 중에서\n+\nGemini 3.6 Flash (High)^",
+      "corrected_text": "중간 결과만 제출하거나 추가 질문을 하지 말고, 합리적인 가정을 명시한 뒤 최종 PDF까지 완성하라.\n오후 11:46, 2026. 7. 21.\nL\n1\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\nAsk anyt\n이런 보고 문서나 그래프가 들어가는 작업 중에서\n+\nGemini 3.6 Flash (High)^",
+      "crop": "text_regions/text_000001_000000.500.png"
+    },
+    {
+      "frame": "text_000003_000001.500.png",
+      "timestamp": 1.5,
+      "text": "* 최근 주식분할 또는 병합 여부\n* 최근 대규모 인수합병 여부\n동일하거나 유사한 이름의 기업이 여러 개 존재하는 경우에는 가장 널리 알려진 상장기어의 0서 서대하기\n서 초반에 식별 근거와 가정을 명시하라.\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\nL\n5\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이런 보고 문서나 그래프가 들어가는 작업 중에서\nAsk anyt\n+ Gemini 3.6 Flash (High)~",
+      "corrected_text": "* 최근 주식분할 또는 병합 여부\n* 최근 대규모 인수합병 여부\n동일하거나 유사한 이름의 기업이 여러 개 존재하는 경우에는 가장 널리 알려진 상장기어의 0서 서대하기\n서 초반에 식별 근거와 가정을 명시하라.\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\nL\n5\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이런 보고 문서나 그래프가 들어가는 작업 중에서\nAsk anyt\n+ Gemini 3.6 Flash (High)~",
+      "crop": "text_regions/text_000003_000001.500.png"
+    },
+    {
+      "frame": "text_000004_000002.000.png",
+      "timestamp": 2.0,
+      "text": "7. 거래소 공식 자료\n8. 정부기관 및 규제기관 자료\n9. 산업협회 및 공신력 있는 시장 통계\n10. 신뢰도 높은 금융 데이터 제공기관\n11, Reuters, Bloomberg, Financial Times, Wall Street Journal 등 신뢰도 높은 언론\n오후 11:46, 2026. 7. 21.\n5\nWorked for 115>\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\nAsk anyt\n이런 보고 문서나 그래프가 들어가는 작업 중에서\n+ Gemini 3.6 Flash (High)^\n〉",
+      "corrected_text": "7. 거래소 공식 자료\n8. 정부기관 및 규제기관 자료\n9. 산업협회 및 공신력 있는 시장 통계\n10. 신뢰도 높은 금융 데이터 제공기관\n11, Reuters, Bloomberg, Financial Times, Wall Street Journal 등 신뢰도 높은 언론\n오후 11:46, 2026. 7. 21.\n5\nWorked for 115>\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\nAsk anyt\n이런 보고 문서나 그래프가 들어가는 작업 중에서\n+ Gemini 3.6 Flash (High)^\n〉",
+      "crop": "text_regions/text_000004_000002.000.png"
+    },
+    {
+      "frame": "text_000005_000002.500.png",
+      "timestamp": 2.5,
+      "text": "특히 다음 항복을 검증하라.\n* 매출\n* 영업이익\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이런 보고 문서나 그래프가 들어가는 작업 중에서\nAsk anyt\n+ Gemini 3.6 Flash (High) ^\n〉",
+      "corrected_text": "특히 다음 항복을 검증하라.\n* 매출\n* 영업이익\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이런 보고 문서나 그래프가 들어가는 작업 중에서\nAsk anyt\n+ Gemini 3.6 Flash (High) ^\n〉",
+      "crop": "text_regions/text_000005_000002.500.png"
+    },
+    {
+      "frame": "text_000006_000003.000.png",
+      "timestamp": 3.0,
+      "text": "* 주식분할 반영 여부\n* 환율 기준 차이\n* 계속사업과 중단사업 차이\n* 일회성 비용 조정 여부\n오후 11:46, 2026. 7. 21.\nL\n5\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High) ~",
+      "corrected_text": "* 주식분할 반영 여부\n* 환율 기준 차이\n* 계속사업과 중단사업 차이\n* 일회성 비용 조정 여부\n오후 11:46, 2026. 7. 21.\nL\n5\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High) ~",
+      "crop": "text_regions/text_000006_000003.000.png"
+    },
+    {
+      "frame": "text_000007_000003.500.png",
+      "timestamp": 3.5,
+      "text": "* 단기• 중기•장기 투자 관점\n*\"독립 리서치 보고서\" 표시\n## 면책 고지\n오후 11:46, 2026. 7. 21.\nL\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nn 브구서 그까이고\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High)\n부",
+      "corrected_text": "* 단기• 중기•장기 투자 관점\n*\"독립 리서치 보고서\" 표시\n## 면책 고지\n오후 11:46, 2026. 7. 21.\nL\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nn 브구서 그까이고\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High)\n부",
+      "crop": "text_regions/text_000007_000003.500.png"
+    },
+    {
+      "frame": "text_000008_000004.000.png",
+      "timestamp": 4.0,
+      "text": "* 매출 발생 방식\n* 반복 매출 비중\n* 계약 구조\n* 가격 결정 구조\n* 파미 헤 너\nWorked for 11s>\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 n 보구서 그이버그\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High) ^",
+      "corrected_text": "* 매출 발생 방식\n* 반복 매출 비중\n* 계약 구조\n* 가격 결정 구조\n* 파미 헤 너\nWorked for 11s>\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 n 보구서 그이버그\n어려운 게 뭐가 있을까\nAsk anything, @ to mention, / for\n+ Gemini 3.6 Flash (High) ^",
+      "crop": "text_regions/text_000008_000004.000.png"
+    },
+    {
+      "frame": "text_000009_000004.500.png",
+      "timestamp": 4.5,
+      "text": "* 매출 발생 방식\n* 반복 매출 비중\n* 계약 구조\n* 가격 결정 구조\n* 파매 헤너\nWorked for 115>\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n생각을 해보다가\nAsk anything, @ to mention, / for actio\n+ Gemini 3.6 Flash (High) ^",
+      "corrected_text": "* 매출 발생 방식\n* 반복 매출 비중\n* 계약 구조\n* 가격 결정 구조\n* 파매 헤너\nWorked for 115>\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n생각을 해보다가\nAsk anything, @ to mention, / for actio\n+ Gemini 3.6 Flash (High) ^",
+      "crop": "text_regions/text_000009_000004.500.png"
+    },
+    {
+      "frame": "text_000011_000005.500.png",
+      "timestamp": 5.5,
+      "text": "* 고객\n* 매출 발생 지점\n* 비I요 바새 지저\nWorked for 11s >\n오후 1146,2026.7.21. 0 5\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High)",
+      "corrected_text": "* 고객\n* 매출 발생 지점\n* 비I요 바새 지저\nWorked for 11s >\n오후 1146,2026.7.21. 0 5\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High)",
+      "crop": "text_regions/text_000011_000005.500.png"
+    },
+    {
+      "frame": "text_000012_000006.000.png",
+      "timestamp": 6.0,
+      "text": "다이어그램 아래에는 핵심 해석을 2~4문장으로 작성하라.\n오후 11:46, 2026. 7. 21. 0 5\nWorked for 11s >\nL\n다\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High) ^",
+      "corrected_text": "다이어그램 아래에는 핵심 해석을 2~4문장으로 작성하라.\n오후 11:46, 2026. 7. 21. 0 5\nWorked for 11s >\nL\n다\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High) ^",
+      "crop": "text_regions/text_000012_000006.000.png"
+    },
+    {
+      "frame": "text_000013_000006.500.png",
+      "timestamp": 6.5,
+      "text": "* 보통\n* 약학\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nr Had r\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High)\n무",
+      "corrected_text": "* 보통\n* 약학\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nr Had r\n특정 주식을 주고\nAsk anything, @ to mention, / for actic\n+ Gemini 3.6 Flash (High)\n무",
+      "crop": "text_regions/text_000013_000006.500.png"
+    },
+    {
+      "frame": "text_000014_000007.000.png",
+      "timestamp": 7.0,
+      "text": "* 일회성 매출\n* 인수합병에 의존한 성장\n* 유기적 성장률\n* GAAP와 Non-GAAP 차이\n* 주적 학목의 한리석\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\nL\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이제 그걸 분석하는\nAsk anything, @ to mention, / tor ac\n+ Gemini 3.6 Flash (High)",
+      "corrected_text": "* 일회성 매출\n* 인수합병에 의존한 성장\n* 유기적 성장률\n* GAAP와 Non-GAAP 차이\n* 주적 학목의 한리석\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\nL\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이제 그걸 분석하는\nAsk anything, @ to mention, / tor ac\n+ Gemini 3.6 Flash (High)",
+      "crop": "text_regions/text_000014_000007.000.png"
+    },
+    {
+      "frame": "text_000015_000007.500.png",
+      "timestamp": 7.5,
+      "text": "* 출처\n* 핵심 해석 1~2문장\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이제 그걸 분석하는\nAsk anything, @ to mention, / for ac\n+ Gemini 36 Flash (High)",
+      "corrected_text": "* 출처\n* 핵심 해석 1~2문장\n오후 11:46, 2026. 7. 21.\nWorked for 11s >\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n이제 그걸 분석하는\nAsk anything, @ to mention, / for ac\n+ Gemini 36 Flash (High)",
+      "crop": "text_regions/text_000015_000007.500.png"
+    },
+    {
+      "frame": "text_000016_000008.000.png",
+      "timestamp": 8.0,
+      "text": "* 속내 대학\n* 예상 시점\n* 바새 기ㄴ서\n오후 11:46, 2026. 7. 21.\nL\nWorked for 11s >\n£\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nr 보키! TAr\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+ Gemini 3.6 Flash (High)",
+      "corrected_text": "* 속내 대학\n* 예상 시점\n* 바새 기ㄴ서\n오후 11:46, 2026. 7. 21.\nL\nWorked for 11s >\n£\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nr 보키! TAr\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+ Gemini 3.6 Flash (High)",
+      "crop": "text_regions/text_000016_000008.000.png"
+    },
+    {
+      "frame": "text_000017_000008.500.png",
+      "timestamp": 8.5,
+      "text": "* WACC\n* 무위험수익률\n* 주식위험프리미엄\n* 베타\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n분석 보고서를 만들어 달라는\nAsk anything,\n@ to mentior\n+ Gemini 3.6 Flash (High) ^",
+      "corrected_text": "* WACC\n* 무위험수익률\n* 주식위험프리미엄\n* 베타\nWorked for 11s >\n오후 11:46, 2026. 7. 21.\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n분석 보고서를 만들어 달라는\nAsk anything,\n@ to mentior\n+ Gemini 3.6 Flash (High) ^",
+      "crop": "text_regions/text_000017_000008.500.png"
+    },
+    {
+      "frame": "text_000018_000009.000.png",
+      "timestamp": 9.0,
+      "text": "# 41. PDF 디자인 규칙\n오후 11:46, 2026. 7. 21.\n5\nWorked for 11s>\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nnr 브가서 그자보다\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+ Gemini 3.6 Flash (High) ^",
+      "corrected_text": "# 41. PDF 디자인 규칙\n오후 11:46, 2026. 7. 21.\n5\nWorked for 11s>\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n0 nnr 브가서 그자보다\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+ Gemini 3.6 Flash (High) ^",
+      "crop": "text_regions/text_000018_000009.000.png"
+    },
+    {
+      "frame": "text_000019_000009.500.png",
+      "timestamp": 9.5,
+      "text": "분석할 회사: 엔비디아\n다 끝나고 나면 걸린 시간, 토큰 비용도 같이 적어줘 PDF안에.\n오후 11:46, 20\n21.\nL\nWorked for 11s >\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n미 n 브구서 디자이니다\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+\nGemini 3.6 Flash (High)^\n!",
+      "corrected_text": "분석할 회사: 엔비디아\n다 끝나고 나면 걸린 시간, 토큰 비용도 같이 적어줘 PDF안에.\n오후 11:46, 20\n21.\nL\nWorked for 11s >\nL\n# 기관투자자급 주식 리서치 PDF 보고서 생성 프롬프트\n당신은 글로벌 투자은행의 시니어 주식 애널리스트, 재무모델링 전문가, 산업 리서처, 데이터 시각화 전문가이자 전\n미 n 브구서 디자이니다\n분석 보고서를 만들어 달라는\nAsk anything, @ to mentior\n+\nGemini 3.6 Flash (High)^\n!",
+      "crop": "text_regions/text_000019_000009.500.png"
+    }
+  ]
+}

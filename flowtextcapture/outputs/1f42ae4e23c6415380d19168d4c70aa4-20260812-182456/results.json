@@ -1,0 +1,133 @@
+{
+  "video": "1f42ae4e23c6415380d19168d4c70aa4.mp4",
+  "ocr_engine": "Apple Vision / Live Text",
+  "spellchecker": "basic normalization",
+  "blocks": [
+    {
+      "frame": "text_000000_000000.000.png",
+      "timestamp": 0.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000000_000000.000.png"
+    },
+    {
+      "frame": "text_000001_000000.500.png",
+      "timestamp": 0.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000001_000000.500.png"
+    },
+    {
+      "frame": "text_000003_000001.500.png",
+      "timestamp": 1.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000003_000001.500.png"
+    },
+    {
+      "frame": "text_000004_000002.000.png",
+      "timestamp": 2.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000004_000002.000.png"
+    },
+    {
+      "frame": "text_000005_000002.500.png",
+      "timestamp": 2.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000005_000002.500.png"
+    },
+    {
+      "frame": "text_000006_000003.000.png",
+      "timestamp": 3.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000006_000003.000.png"
+    },
+    {
+      "frame": "text_000007_000003.500.png",
+      "timestamp": 3.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000007_000003.500.png"
+    },
+    {
+      "frame": "text_000008_000004.000.png",
+      "timestamp": 4.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000008_000004.000.png"
+    },
+    {
+      "frame": "text_000009_000004.500.png",
+      "timestamp": 4.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000009_000004.500.png"
+    },
+    {
+      "frame": "text_000011_000005.500.png",
+      "timestamp": 5.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000011_000005.500.png"
+    },
+    {
+      "frame": "text_000012_000006.000.png",
+      "timestamp": 6.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000012_000006.000.png"
+    },
+    {
+      "frame": "text_000013_000006.500.png",
+      "timestamp": 6.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000013_000006.500.png"
+    },
+    {
+      "frame": "text_000014_000007.000.png",
+      "timestamp": 7.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000014_000007.000.png"
+    },
+    {
+      "frame": "text_000015_000007.500.png",
+      "timestamp": 7.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000015_000007.500.png"
+    },
+    {
+      "frame": "text_000016_000008.000.png",
+      "timestamp": 8.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000016_000008.000.png"
+    },
+    {
+      "frame": "text_000017_000008.500.png",
+      "timestamp": 8.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000017_000008.500.png"
+    },
+    {
+      "frame": "text_000018_000009.000.png",
+      "timestamp": 9.0,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000018_000009.000.png"
+    },
+    {
+      "frame": "text_000019_000009.500.png",
+      "timestamp": 9.5,
+      "text": "",
+      "corrected_text": "",
+      "crop": "text_regions/text_000019_000009.500.png"
+    }
+  ]
+}

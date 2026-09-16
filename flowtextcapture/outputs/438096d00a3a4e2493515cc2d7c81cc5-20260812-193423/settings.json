@@ -1,0 +1,10 @@
+{
+  "start": 0.0,
+  "end": 10.0,
+  "sample_interval": 0.0,
+  "similarity": 0.98,
+  "language": "ko,en",
+  "ocr_engine": "auto",
+  "spellcheck": true,
+  "keep_frames": false
+}
